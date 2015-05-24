@@ -1,0 +1,19 @@
+/* 
+    Created on : 24/05/2015, 17:07:16
+    Author     : Edivania
+*/
+
+@font-face {
+    font-family: "Soft Elegance";
+    src: local("Soft Elegance"), url("../fonts/Soft Elegance.ttf") format("opentype");
+}
+
+body {
+    font-family: "Soft Elegance", Verdana; 
+    background-color: black;
+    color: whitesmoke;
+}
+
+p {
+    font-size: 16pt;
+}
